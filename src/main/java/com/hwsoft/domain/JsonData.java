@@ -1,4 +1,4 @@
-package com.huaweisoft.domain;
+package com.hwsoft.domain;
 
 import java.io.Serializable;
 

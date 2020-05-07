@@ -1,4 +1,4 @@
-package com.huaweisoft.springboot_integration;
+package com.hwsoft.springboot_integration;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

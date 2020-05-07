@@ -1,4 +1,4 @@
-package com.huaweisoft;
+package com.hwsoft;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
