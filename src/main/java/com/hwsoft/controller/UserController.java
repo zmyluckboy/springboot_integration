@@ -1,4 +1,4 @@
 package com.hwsoft.controller;
 
-public class UserController {
+public class UserController  {
 }

@@ -36,7 +36,7 @@ public class JsonData implements Serializable {
     @Override
     public String toString() {
         return "JsonData{" +
-                "code=" + code +
+                "code=" +  code +
                 ", data=" + data +
                 ", msg='" + msg + '\'' +
                 '}';

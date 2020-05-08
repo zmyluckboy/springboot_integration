@@ -43,7 +43,7 @@ public class RedisTestController {
         return JsonData.buildSuccess(value);
     }
 
-    @GetMapping(value = "save_user")
+    @GetMapping(value = "save_user" )
     public Object saveUser(){
         User user = new User(1, "abc", "11", new Date());
         String userStr = JsonUtils.obj2Strong(user);

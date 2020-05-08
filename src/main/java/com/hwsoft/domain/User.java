@@ -29,7 +29,7 @@ public class User {
     }
 
     public void setPhone(String phone) {
-        this.phone = phone;
+        this.phone =  phone;
     }
 
     public Date getCreateTime() {
